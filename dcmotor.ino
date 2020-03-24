@@ -21,7 +21,7 @@ void loop()
   //  int speed = Serial.parseInt();
  //   if (speed >= 0 && speed <= 255)
    // {
-      analogWrite(motorPin,0);
+      analogWrite(motorPin,200);
    // }
   // }
 } 
